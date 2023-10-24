@@ -1,5 +1,6 @@
-![](https://github.com/volatile-programming/docs/blob/master/assets/images/volatile_programming.svg?raw=true)
-![](assets/images/volatile_programming.svg)
+# Volatile Programming Docs
+
+<!-- # ![Volatile Programming Docs](assets/images/volatile_programming.svg) -->
 
 This is a public repository that contains all the documents for our projects and blogs.
 
