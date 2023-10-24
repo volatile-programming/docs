@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Murk Library",
+      "description": "Cross cutting concern NuGet for quick implementation of design patterns.  ",
+      "installation": "https://www.nuget.org/profiles/jerajo",
+      "code": "https://github.com/volatile-programming/Murk.DesignPatterns",
+      "documentation": "https://github.com/volatile-programming/Murk.DesignPatterns/blob/master/README.md",
+      "discord": "https://discord.com/invite/APQ4NWMft6"
+    },
+    {
+      "name": "PyPlace",
+      "description": "A utility to stop remembering tons of numbers and start using percentages for objects size and placement.",
+      "installation": "https://pypi.org/project/pyplace/",
+      "code": "https://github.com/volatile-programming/pyplace",
+      "documentation": "https://github.com/volatile-programming/pyplace/blob/develop/README.md",
+      "discord": "https://discord.com/invite/VuaR3Wzr3y"
+    },
+    {
+      "name": "VPBot",
+      "description": "A mobile chatbot app for the Volatile Programming community.",
+      "installation": "https://github.com/volatile-programming/vpbot",
+      "code": "https://github.com/volatile-programming/vpbot",
+      "documentation": "https://github.com/volatile-programming/vpbot/blob/develop/README.md",
+      "discord": "https://discord.com/invite/jft9yFPHvc"
+    },
+    {
+      "name": "Clean Editor",
+      "description": "A distraction-free editor for files in .md, .docx, .html, .xml formats among others.",
+      "installation": "https://github.com/volatile-programming/Cletor/releases/tag/1.0.1",
+      "code": "https://github.com/volatile-programming/Cletor",
+      "documentation": "https://github.com/volatile-programming/Cletor/blob/develop/README.md",
+      "discord": "https://discord.com/invite/J8eEWrq5JS"
+    }
+  ]
+}
